@@ -48,6 +48,9 @@ function App() {
           <Button color="secondary" />
         </Line>
       </header>
+      <p className="user">
+        created by Muhammad Junaid Iqbal - devChallenges.io
+      </p>
     </div>
   );
 }
